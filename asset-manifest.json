@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Klasifikasi/static/css/main.2d4a5306.chunk.css",
+    "main.js": "/Klasifikasi/static/js/main.3eb7be55.chunk.js",
+    "main.js.map": "/Klasifikasi/static/js/main.3eb7be55.chunk.js.map",
+    "runtime-main.js": "/Klasifikasi/static/js/runtime-main.fd28fba2.js",
+    "runtime-main.js.map": "/Klasifikasi/static/js/runtime-main.fd28fba2.js.map",
+    "static/js/2.24208b1f.chunk.js": "/Klasifikasi/static/js/2.24208b1f.chunk.js",
+    "static/js/2.24208b1f.chunk.js.map": "/Klasifikasi/static/js/2.24208b1f.chunk.js.map",
+    "index.html": "/Klasifikasi/index.html",
+    "precache-manifest.10beb3eb37a1b7dacd4790dba192f6df.js": "/Klasifikasi/precache-manifest.10beb3eb37a1b7dacd4790dba192f6df.js",
+    "service-worker.js": "/Klasifikasi/service-worker.js",
+    "static/css/main.2d4a5306.chunk.css.map": "/Klasifikasi/static/css/main.2d4a5306.chunk.css.map",
+    "static/js/2.24208b1f.chunk.js.LICENSE.txt": "/Klasifikasi/static/js/2.24208b1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd28fba2.js",
+    "static/js/2.24208b1f.chunk.js",
+    "static/css/main.2d4a5306.chunk.css",
+    "static/js/main.3eb7be55.chunk.js"
+  ]
+}
